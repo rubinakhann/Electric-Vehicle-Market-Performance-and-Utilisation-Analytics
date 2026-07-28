@@ -27,45 +27,55 @@ The pipeline is designed to handle future datasets with the same structure, ensu
 
 # 🛠️ Tech Stack
 
-- **Programming:** Python
-- **Data Processing:** Pandas, NumPy
-- **Database:** SQLite
-- **Query Language:** SQL
-- **Data Modelling:** Star Schema
-- **Business Intelligence:** Power BI
-- **Automation:** Windows Task Scheduler
+<table>
+<tr>
+<th>Category</th>
+<th>Tools / Technologies</th>
+</tr>
+
+<tr>
+<td>Programming</td>
+<td>Python</td>
+</tr>
+
+<tr>
+<td>Data Processing</td>
+<td>Pandas, NumPy, RapidFuzz</td>
+</tr>
+
+<tr>
+<td>Database</td>
+<td>SQLite</td>
+</tr>
+
+<tr>
+<td>Query Language</td>
+<td>SQL</td>
+</tr>
+
+<tr>
+<td>Data Modelling</td>
+<td>Star Schema</td>
+</tr>
+
+<tr>
+<td>Business Intelligence</td>
+<td>Power BI</td>
+</tr>
+
+<tr>
+<td>Automation</td>
+<td>Windows Task Scheduler</td>
+</tr>
+
+<tr>
+<td>Version Control</td>
+<td>Git & GitHub</td>
+</tr>
+
+</table>
 
 ---
-
-# ⚙️ Analytics Pipeline
-
-```
-Raw EV Dataset
-       │
-       ▼
-Data Audit & Validation
-       │
-       ▼
-Data Cleaning & Transformation
-       │
-       ▼
-Feature Engineering
-       │
-       ▼
-Load into SQLite Database
-       │
-       ▼
-Star Schema Modelling
-       │
-       ▼
-SQL KPI Generation
-       │
-       ▼
-Power BI Dashboard Reporting
-```
-
----
-
 
 
 # 📊 Power BI Dashboard
