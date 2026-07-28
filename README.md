@@ -4,7 +4,7 @@
 
 ### End-to-End Automated Analytics Pipeline using Python, SQLite, SQL & Power BI
 
-Transforming raw EV market data into business-ready insights through automated ETL, Star Schema modelling, KPI generation and interactive dashboards.
+An end-to-end **automated analytics pipeline** that transforms raw Electric Vehicle (EV) sales and operational data into actionable business insights using **Python, SQLite, SQL, and Power BI**.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)]()
@@ -12,9 +12,6 @@ Transforming raw EV market data into business-ready insights through automated E
 [![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)]()
 [![Power\_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)]()
 
-# 🚗⚡ EV Market Performance & Utilisation Analytics
-
-An end-to-end **automated analytics pipeline** that transforms raw Electric Vehicle (EV) sales and operational data into actionable business insights using **Python, SQLite, SQL, and Power BI**.
 
 ---
 
