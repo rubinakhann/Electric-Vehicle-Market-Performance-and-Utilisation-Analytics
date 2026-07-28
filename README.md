@@ -13,7 +13,18 @@ An end-to-end **automated analytics pipeline** that transforms raw Electric Vehi
 [![Power\_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)]()
 
 </center>
+
+</div>
+
+<p align="center">
+  <b>Explore the interactive EV Power BI dashboard :</b>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNTgxODAxZDktOTQ5Ni00ZjIzLWIxYWMtZWNkMWI5MjMwNTFiIiwidCI6IjY1YzUzNWZlLWFjNmYtNDBjOC04MDIzLWQ0ZGI3YzM2NTlhMCJ9">
+    🔗 Click to Open Dashboard
+  </a>
+</p>
+
 ---
+
 <div align="left">
 
 # 🎯 Project Objective
@@ -28,53 +39,16 @@ The pipeline is designed to handle future datasets with the same structure, ensu
 
 # 🛠️ Tech Stack
 
-<table>
-<tr>
-<th>Category</th>
-<th>Tools / Technologies</th>
-</tr>
-
-<tr>
-<td>Programming</td>
-<td>Python</td>
-</tr>
-
-<tr>
-<td>Data Processing</td>
-<td>Pandas, NumPy, RapidFuzz</td>
-</tr>
-
-<tr>
-<td>Database</td>
-<td>SQLite</td>
-</tr>
-
-<tr>
-<td>Query Language</td>
-<td>SQL</td>
-</tr>
-
-<tr>
-<td>Data Modelling</td>
-<td>Star Schema</td>
-</tr>
-
-<tr>
-<td>Business Intelligence</td>
-<td>Power BI</td>
-</tr>
-
-<tr>
-<td>Automation</td>
-<td>Windows Task Scheduler</td>
-</tr>
-
-<tr>
-<td>Version Control</td>
-<td>Git & GitHub</td>
-</tr>
-
-</table>
+| Category              | Technology             |
+| --------------------- | ---------------------- |
+| Programming           | Python                 |
+| Data Processing       | Pandas, NumPy          |
+| Data Cleaning         | RapidFuzz              |
+| Database              | SQLite                 |
+| Query Language        | SQL                    |
+| Data Modelling        | Star Schema            |
+| Business Intelligence | Power BI               |
+| Automation            | Windows Task Scheduler |
 
 ---
 
@@ -102,6 +76,8 @@ It provides an executive overview through:
 - Segment performance
 - Individual vs Fleet buyer comparison
 
+[Market Performance Dashboard](Dashboard/dashboard_1.png)
+
 ---
 
 ## ⚡ Utilisation Analytics
@@ -118,6 +94,8 @@ It analyses:
 - Battery efficiency performance
 - Charging type distribution
 
+[Utilisation Analysis Dashboard](Dashboard/dashboard_2.png)
+
 ---
 
 ## 🚘 Model Drill-Through
@@ -133,23 +111,7 @@ Users can identify:
 - Customer preferences
 - Charging behaviour by model
 
----
-
-# 📸 Dashboard Preview
-
-(Add your dashboard screenshots here)
-
-### Market Performance
-
-![Market Performance](Images/market_performance.png)
-
-### Utilisation Analytics
-
-![Utilisation Analytics](Images/utilisation_analytics.png)
-
-### Model Drill-Through
-
-![Model Drill Through](Images/model_drillthrough.png)
+[Model Deep Dive Dashboard](Dashboard/dashboard_3.png)
 
 ---
 
