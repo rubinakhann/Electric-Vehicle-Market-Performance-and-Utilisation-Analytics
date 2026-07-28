@@ -76,7 +76,7 @@ It provides an executive overview through:
 - Segment performance
 - Individual vs Fleet buyer comparison
 
-[Market Performance Dashboard](Dashboard/dashboard_1.png)
+[Market Performance Dashboard](dashboard/dashboard_1.png)
 
 ---
 
@@ -94,7 +94,7 @@ It analyses:
 - Battery efficiency performance
 - Charging type distribution
 
-[Utilisation Analysis Dashboard](Dashboard/dashboard_2.png)
+[Utilisation Analysis Dashboard](dashboard/dashboard_2.png)
 
 ---
 
@@ -111,7 +111,7 @@ Users can identify:
 - Customer preferences
 - Charging behaviour by model
 
-[Model Deep Dive Dashboard](Dashboard/dashboard_3.png)
+[Model Deep Dive Dashboard](dashboard/dashboard_3.png)
 
 ---
 
