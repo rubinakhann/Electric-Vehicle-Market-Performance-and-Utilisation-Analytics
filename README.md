@@ -12,8 +12,9 @@ An end-to-end **automated analytics pipeline** that transforms raw Electric Vehi
 [![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)]()
 [![Power\_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)]()
 
-
+</center>
 ---
+<div align="left">
 
 # 🎯 Project Objective
 
